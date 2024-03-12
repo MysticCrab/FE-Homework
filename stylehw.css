@@ -1,0 +1,248 @@
+
+*{margin: 0;
+padding: 0;
+box-sizing: 0;
+}
+
+.all{
+width: 1440px;
+height: 900px;
+align-items: center;
+}
+
+.block1{
+display: flex;
+flex-direction: column;
+background: #F8F8F8;
+width: 1440px;
+height: 900px;
+}
+
+h6{
+    font-family: "League Spartan";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 104px;
+    margin-left: 133px;
+    }
+
+.h1n1{
+font-family: "League Spartan";
+font-size: 250px;
+font-weight: 300;
+line-height: 230px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 133px;
+margin-top: 53px;
+}
+
+.comment{
+    width: 575px;
+    height: 142px;
+    top: 447px;
+    left: 135px;
+    margin-left: 133px;
+    margin-top: 43px;
+     font-family: "League Spartan";
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #161515;
+    }
+
+    .clock22{
+        margin-left: 792px ;
+        margin-top: -625px;
+        }
+    
+
+button{
+width: 278px;
+height: 82px;
+margin-top: -30px;
+margin-left: 133px;
+background: #161515;
+color: white;
+font-family: "League Spartan";
+font-size: 32px;
+font-weight: 300;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+box-shadow: 0px 0px 28px 0px #D6D6D640;
+}
+.money{
+font-family: "League Spartan";
+font-size: 32px;
+font-weight: 300;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: center;
+color: #272727;
+width: 143px;
+height: 82px;
+top: 650px;
+left: 413px;
+background: #FFFFFF;
+justify-content: center;
+margin-left: 411px;
+margin-top: -82px;
+}
+.number{
+    align-items: center;
+    padding-top: 12px;
+}
+
+   
+.block2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 43px auto;
+    }
+    .popular{
+        font-family: "League Spartan";
+        font-size: 24px;
+        font-weight: 300;
+        line-height: 45px;
+        }
+        .models{
+            font-family: "League Spartan";
+            font-size: 72px;
+            font-weight: 400;
+            line-height: 81px;
+            letter-spacing: 0em;
+            text-align: center;
+            }
+            .back{
+                margin-top: 84px;
+                width: 417px;
+                height: 630px;
+                top: 1130px;
+                left: 511px;
+                background: #F8F8F8;
+                }
+            .watch2{
+    margin: 110px 60px 110px 71px;
+    }
+
+.son22{
+        font-family: "League Spartan";
+        font-size: 32px;
+        font-weight: 400;
+        text-align: center;
+        color: #161515;
+        margin-top: 67px;
+        margin-bottom: 17px;
+        }
+
+.textwatch2{
+            font-family: "League Spartan";
+            font-size: 32px;
+            font-weight: 300;
+            text-align: center;
+            color: #161515;
+            line-height: 50px;
+            letter-spacing: 0em;
+            width: 531px;
+            height: 238px;
+}
+
+
+.back3{
+    width: 496px;
+    height: 630px;
+    background: #F8F8F8;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 65px auto;
+    }
+
+.watch3{
+    margin: 65px;
+}
+   
+
+
+
+.sw12{
+font-family: "League Spartan";
+font-size: 32px;
+font-weight: 400;
+text-align: center;
+margin-top: 67px;
+margin-bottom: 17px;
+}
+
+.textwatch3{
+    font-family: "League Spartan";
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 531px;
+    height: 238px;
+    margin: 17px auto;
+}
+
+.foot{
+font-family: "League Spartan";
+font-size: 32px;
+font-weight: 400;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+.product{
+font-family: "League Spartan";
+font-size: 32px;
+font-weight: 400;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: 60px;
+}
+
+.line{
+width: 178.03px;
+top: 3207px;
+left: 631px;
+border: 1px;
+border: 1px solid #707070;
+align-items: center;
+margin: 10px auto;
+}
+
+.lastresort{
+    
+    width: 515px;
+    height: 231px;   
+    font-family: "League Spartan";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 41px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 49px auto;
+}
+
+.lastlink{
+font-family: "League Spartan";
+font-size: 24px;
+font-weight: 500;
+line-height: 41px;
+letter-spacing: 0em;
+text-align: center;
+color: rgb(187,139,93);
+text-decoration:underline;
+}
+
